@@ -1,4 +1,4 @@
-## OPERA Project Science Team Calibration/Validation Guides and Notebooks
+## OPERA Project Science Team Calibration and Validation Guides and Notebooks
 
 Our organization contains repos for OPERA products including DSWx, CSLC, and RTC.
 
