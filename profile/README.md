@@ -10,7 +10,7 @@ A complete description of the OPERA products can be found here: https://www.jpl.
 - DSWx-Validation-Experiments 
   - A location to share new and/or experimental DSWx validation scripts and notebooks.
 - DSWx-Jupyter-Validation-Dataset-Generation
-  - Demonstrates how to generate DSWx validation data from PlanetScope optical imagery using a semi-automated approach using scikit-learn in Python.
+  - Demonstrates how to generate DSWx validation data from PlanetScope optical imagery using using scikit-learn in Python.
 - DSWx-SCP-validation-generation 
   - Demonstrates how to generate DSWx validation data from PlanetScope optical imagery using Semi-Automatic Classification Plugin in QGIS.
 
