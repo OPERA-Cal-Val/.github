@@ -27,7 +27,7 @@ A complete description of the OPERA products can be found here: https://www.jpl.
   - Tools needed to interface with the OPERA calval database as well as example notebooks demonstrating database functionality.
 
 
-In the near future we will add repos for DIST and radiometric terrain-corrected (RTC) products. In the far future we will add repos for land-surface deformation (DISP) products.
+In the near future we will add repos for the land-surface disturbance (DIST) and radiometric terrain-corrected (RTC) products. In the far future we will add repos for land-surface deformation (DISP) products.
 
 <!--
 
