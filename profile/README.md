@@ -1,6 +1,8 @@
 ## OPERA Project Science Team Calibration and Validation Guides and Notebooks
 
-Our organization contains repos for calibration and validation of the Observational Products for End-Users from Remote Sensing Analysis (OPERA) products. Currently, we have repos for OPERA products including the Dynamic Surface Water Extent (DSWx) and coregistered single-look complex (CSLC). A complete description of the OPERA products can be found here: https://www.jpl.nasa.gov/go/opera/products. 
+Our organization contains repos for calibration and validation of the Observational Products for End-Users from Remote Sensing Analysis (OPERA) products. Currently, we have repos for OPERA products including the Dynamic Surface Water Extent (DSWx) and coregistered single-look complex (CSLC) and the calibration/validation database. 
+
+A complete description of the OPERA products can be found here: https://www.jpl.nasa.gov/go/opera/products. 
 
 **DSWx repos include:**
 - calval-DSWx 
@@ -19,6 +21,11 @@ Our organization contains repos for calibration and validation of the Observatio
 **RTC repos include:**
 - calval-RTC 
   - (future home of Tools for validating RTC products.)
+
+**Database repos include:**
+- calval-database
+  - Tools needed to interface with the OPERA calval database as well as example notebooks demonstrating database functionality.
+
 
 In the near future we will add repos for DIST and radiometric terrain-corrected (RTC) products. In the far future we will add repos for land-surface deformation (DISP) products.
 
