@@ -20,7 +20,7 @@ A complete description of the OPERA products can be found here: https://www.jpl.
 
 **RTC repos include:**
 - calval-RTC 
-  - (future home of Tools for validating RTC products.)
+  - Tools for validating RTC products (develop branch)
 
 **Database repos include:**
 - calval-database
