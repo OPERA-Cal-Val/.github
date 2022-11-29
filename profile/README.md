@@ -5,29 +5,30 @@ Our organization contains repos for calibration and validation of the Observatio
 A complete description of the OPERA products can be found here: https://www.jpl.nasa.gov/go/opera/products. 
 
 **DSWx repos include:**
-- calval-DSWx 
-  - Tools for validating OPERA DSWx products. 
-- DSWx-Validation-Experiments 
-  - A location to share new and/or experimental DSWx validation scripts and notebooks.
-- DSWx-Jupyter-Validation-Dataset-Generation
-  - Demonstrates how to generate DSWx validation data from PlanetScope optical imagery using scikit-learn in Python.
+- DSWx-Validation-Dataset-Generation 
+- DSWx-HLS-Requirement-Verification 
+- DSWx-Jupyter-Validation-Dataset-Generation 
 - DSWx-SCP-validation-generation 
-  - Demonstrates how to generate DSWx validation data from PlanetScope optical imagery using Semi-Automatic Classification Plugin in QGIS.
+- DSWx-Validation-Experiments
+- calval-DSWx 
+
+**DIST repos include:**
+- DIST-Validation-Dataset
 
 **CSLC repos include:**
 - calval-CSLC 
-  - Tools for validating CSLC products.
 
 **RTC repos include:**
 - calval-RTC 
-  - Tools for validating RTC products (develop branch)
 
 **Database repos include:**
 - calval-database
-  - Tools needed to interface with the OPERA calval database as well as example notebooks demonstrating database functionality.
 
+**OPERA repos include:**
+- opera_coverage
+- OPERA_Applications 
 
-In the near future we will add repos for the land-surface disturbance (DIST) and radiometric terrain-corrected (RTC) products. In the far future we will add repos for land-surface deformation (DISP) products.
+In the future we will add repos for Land Surface Displacement (DISP) products.
 
 <!--
 
