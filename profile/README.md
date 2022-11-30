@@ -21,7 +21,7 @@ A complete description of the OPERA products can be found here: https://www.jpl.
 - 
 
 **OPERA Application repos include:**
-- opera_coverage
+- OPERA_coverage
 - OPERA_Applications 
 
 
