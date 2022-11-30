@@ -17,9 +17,6 @@ A complete description of the OPERA products can be found here: https://www.jpl.
 **RTC repos include:**
 - calval-RTC
 
-**Database repos include:**
-- 
-
 **OPERA Application repos include:**
 - OPERA_coverage
 - OPERA_Applications 
